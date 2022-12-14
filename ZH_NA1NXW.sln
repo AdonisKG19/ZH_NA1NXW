@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32802.462
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZH_NA1NXW", "ZH_NA1NXW\ZH_NA1NXW.csproj", "{B062EE68-62FA-4652-B022-09D4C81CB6BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZH_NA1NXW_WEB", "ZH_NA1NXW_WEB\ZH_NA1NXW_WEB.csproj", "{3CFC812A-3F07-411E-B018-5CEF30864707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B062EE68-62FA-4652-B022-09D4C81CB6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B062EE68-62FA-4652-B022-09D4C81CB6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B062EE68-62FA-4652-B022-09D4C81CB6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B062EE68-62FA-4652-B022-09D4C81CB6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFC812A-3F07-411E-B018-5CEF30864707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFC812A-3F07-411E-B018-5CEF30864707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFC812A-3F07-411E-B018-5CEF30864707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFC812A-3F07-411E-B018-5CEF30864707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7B5B79A-B2FA-47E3-A48A-DD40E07A73A4}
+	EndGlobalSection
+EndGlobal

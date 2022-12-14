@@ -129,6 +129,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Blue;
             this.Controls.Add(this.listBox3);
             this.Controls.Add(this.buttonRemove);
             this.Controls.Add(this.buttonAdd);

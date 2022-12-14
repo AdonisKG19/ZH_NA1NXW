@@ -152,18 +152,20 @@
             // 
             // buttonRemove
             // 
+            this.buttonRemove.BackColor = System.Drawing.Color.Silver;
             this.buttonRemove.Location = new System.Drawing.Point(632, 152);
             this.buttonRemove.Name = "buttonRemove";
             this.buttonRemove.Size = new System.Drawing.Size(75, 23);
             this.buttonRemove.TabIndex = 9;
             this.buttonRemove.Text = "-";
-            this.buttonRemove.UseVisualStyleBackColor = true;
+            this.buttonRemove.UseVisualStyleBackColor = false;
             this.buttonRemove.Click += new System.EventHandler(this.buttonRemove_Click);
             // 
             // UserControl1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.Controls.Add(this.buttonRemove);
             this.Controls.Add(this.buttonAdd);
             this.Controls.Add(this.dataGridView1);
